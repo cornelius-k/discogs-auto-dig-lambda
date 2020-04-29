@@ -1,5 +1,5 @@
 /**
-* AWS Lambda function (Node JS) for Discogs Auto-Dig get release endpoint
+* AWS Lambda function (Node JS) for Discogs Auto-Dig GET release endpoint
 * Aug 2017 Neil Kempin
 */
 
